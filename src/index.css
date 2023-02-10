@@ -1,8 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi?styles=135009,135005,135007,135002,135000');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Satoshi', sans-serif;  
+  background-color: #121B27;
+  color: white;                                              
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
