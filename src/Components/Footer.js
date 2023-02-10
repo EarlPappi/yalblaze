@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div className=''>
             <Wrapper>
-                <div className='pt-6 border-t-2 flex items-center justify-between'>
+                <div className='pt-6 flex-col md:flex-row gap-8 border-t-2 flex items-start md:items-center justify-between'>
                     <div className='flex gap-4'>
                         <div>
                             <HouseIcon/>
