@@ -4,7 +4,7 @@ import Wrapper from './Wrapper'
 
 function Footer() {
     return (
-        <div className=''>
+        <div className='pt-[5em]'>
             <Wrapper>
                 <div className='pt-6 flex-col md:flex-row gap-8 border-t-2 flex items-start md:items-center justify-between'>
                     <div className='flex gap-4'>
