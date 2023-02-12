@@ -17,7 +17,7 @@ function Footer() {
                         </div>
                     </div>
 
-                    <p className='font-bold'>Loyalbaze is almost here.</p>
+                    <p className='font-bold '>Loyalbaze is almost here.</p>
 
                     <div className='flex gap-4'>
                         <div>

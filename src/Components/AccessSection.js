@@ -9,15 +9,15 @@ function AccessSection() {
                 <div className='flex justify-center flex-col lg:flex-row gap-8 lg:justify-between items-center'>
                     <div className='lg:w-1/2 '>
                         <div className='flex item-center items-center lg:items-start flex-col justify-center '>
-                            <h2 className='text-center lg:text-left  inline-block font-bold text-5xl'>Priority Access</h2>
+                            <h2 className='text-center text-3xl lg:text-left  inline-block font-bold md:text-5xl'>Priority Access</h2>
                             <div className='text-center'><BlueLineIcon /></div>
                         </div>
 
-                        <p className='text-lg mx-auto lg:m-0 text-center lg:text-left font-bold w-10/12 '>Get ready to revolutionize the way you interact with your customers and drive sales with Loyalbaze. Skip the waitlist and get exclusive priority access to LoyalBaze. Limited slots available. Please tell us a bit about your business and needs and of our consultants will be in touch Immediately!</p>
+                        <p className='text-sm md:text-lg mx-auto lg:m-0 text-center lg:text-left font-bold w-10/12 '>Get ready to revolutionize the way you interact with your customers and drive sales with Loyalbaze. Skip the waitlist and get exclusive priority access to LoyalBaze. Limited slots available. Please tell us a bit about your business and needs and of our consultants will be in touch Immediately!</p>
                     </div>
 
-                    <div className='w-full lg:w-1/2 bg-[#1D2939] px-[2em]  md:px-[4em] py-[2em] rounded-lg'>
-                        <h2 className='font-bold text-lg'>Book a Consultation with us</h2>
+                    <div className='w-full lg:w-1/2 bg-[#1D2939] px-[1em]  md:px-[4em] py-[2em] rounded-lg'>
+                        <h2 className='font-bold text-base md:text-lg'>Book a Consultation with us</h2>
                         <form action="">
                             <div class="mb-6">
                                 {/* Name Input */}
