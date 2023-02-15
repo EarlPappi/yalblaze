@@ -12,8 +12,8 @@ function Footer() {
                             <HouseIcon/>
                         </div>
                         <div>
-                            <p>2nd Floor, The Garnet Building, KM14 </p>
-                            <p>Lekki Epe Expressway, Lagos, Nigeria.</p>
+                            <p>13  Ashridge Walk,</p>
+                            <p>Hatfield, United Kingdom</p>
                         </div>
                     </div>
 
@@ -24,7 +24,7 @@ function Footer() {
                             <PhoneIcon/>
                         </div>
 
-                        <p>+234 903 618 9485</p>
+                        <p>+1 333 444 222</p>
                     </div>
                 </div>
             </Wrapper>
