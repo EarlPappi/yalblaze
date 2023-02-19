@@ -8,8 +8,8 @@ function HeroSection() {
             <Wrapper>
                 <div>
                     <div className='w-10/12 md:w-5/6 mx-auto my-4'>
-                        <h1 className='text-center font-extrabold text-[1.5em] md:text-[2.5em] lg:text-[4em] lg:w-10/12 lg:mx-auto leading-[120%]'>Turn your best customers into <span className='text-[#A75FD2]'>Loyal fans</span></h1>
-                        <p className='text-center text-sm md:text-xl lg:text-2xl font-thin my-6'>Loyalbaze, empowers businesses to offer digital, mobile-first loyalty programs to their customers. With our AI Powered platform, you can easily create and manage custom loyalty and rewards programs, track customer engagement, and gain valuable insights to improve your business. Sign up now to get early access.</p>
+                        <h1 className='text-center font-extrabold text-[2.5em] md:text-[2.5em] lg:text-[4em] lg:w-10/12 lg:mx-auto leading-[120%]'>Turn your best customers into <span className='text-[#A75FD2]'>Loyal fans</span></h1>
+                        <p className='text-center md:text-xl lg:text-2xl font-thin my-6'>Loyalbaze, empowers businesses to offer digital, mobile-first loyalty programs to their customers. With our AI Powered platform, you can easily create and manage custom loyalty and rewards programs, track customer engagement, and gain valuable insights to improve your business. Sign up now to get early access.</p>
                     </div>
 
                     <div className='md:w-2/3 lg:w-1/3 mx-auto'>
@@ -41,7 +41,7 @@ function HeroSection() {
                             <p class="px-4 py-2 bg-[#A75FD2] font-bold  rounded-full dark:border-gray-800">M</p>
 
                         </div>
-                        <p className='font-bold text-xl'>+57 Joined</p>
+                        <p className='font-bold tetx-sm md:text-xl'>+57 Joined</p>
                     </div>
 
                 </div>

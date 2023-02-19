@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { BlueLineIcon } from '../Assets/Icons'
 import Wrapper from './Wrapper'
 
@@ -38,7 +38,6 @@ function AccessSection() {
                                 <button type="submit" class="text-white bg-gradient-to-r from-[#5403FF] to-[#B43AC9] hover:bg-gradient-to-tr focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800 font-medium rounded-full text-sm px-5 py-4 text-center mr-2 mb-2 w-full">Send Request</button>
 
                             </div>
-
                         </form>
 
                     </div>
